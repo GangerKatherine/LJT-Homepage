@@ -1,18 +1,23 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Author information
+Junteng Liu:
+  name: "Junteng Liu"
+  bio: "First-year PhD candidate at HKUST NLP Group"
+  avatar: "images/profile.png"
+  location: "Hong Kong"
+  email: "jliugi@connect.ust.hk"
+  github: "Vicent0205"
+  google_scholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  twitter: "junteng88716710"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Vicent0205"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jliugi@connect.ust.hk"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/junteng88716710"
